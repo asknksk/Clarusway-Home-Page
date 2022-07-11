@@ -13,6 +13,14 @@ const Header = () => {
             <Button bg="#a62440">Talk to Adviser</Button>
           </div>
         </Nav>
+        <div>
+          <h1>The IT Career of Your Dreams Starts Here!</h1>
+          <p>
+            Clarusway is a leading international software Bootcamp. Join a micro
+            class online with other trainees and learn coding skills with a
+            highly-skilled instructor.
+          </p>
+        </div>
       </Container>
     </StyledHeader>
   );
