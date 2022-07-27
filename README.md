@@ -11,7 +11,7 @@ The main purpose of this project is to create files with styled-component and us
 
 <hr>
 
-![](https://github.com/asknksk/Clarusway-Home-Page/tree/master/src/assets/Preview.gif)
+![](https://github.com/asknksk/Clarusway-Home-Page/blob/master/src/assets/Preview.gif)
 
 <hr>
 
